@@ -1,0 +1,18 @@
+/************* Ich bin ein Kommentar **************/
+
+div {
+
+    width:20vw;
+    height: 20vw;
+    color:#FFF;
+}
+
+
+.box1 {
+    background-color:red;
+}
+
+.box2 {
+
+background-color:green;
+}
